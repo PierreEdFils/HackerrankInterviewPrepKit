@@ -1,4 +1,4 @@
-package Week1;
+package Week1.Day1;
 
 import java.io.*;
 import java.text.DateFormat;
