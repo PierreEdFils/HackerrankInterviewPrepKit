@@ -6,7 +6,7 @@ import java.util.stream.Stream;
 
 import static java.util.stream.Collectors.toList;
 
-class Result {
+class Result4 {
 
     /*
      * Complete the 'birthday' function below.
@@ -52,12 +52,12 @@ public class SubarrayDivision1 {
 
     int m = Integer.parseInt(firstMultipleInput[1]);
 
-    int result = Result.birthday(s, d, m);
+    int result = Result4.birthday(s, d, m);
 
     public SubarrayDivision1() throws IOException {
     }
 
-        bufferedWriter.write(String.valueOf(result));
+        bufferedWriter.write(String.valueOf(result4);
         bufferedWriter.newLine();
 
         bufferedReader.close();
